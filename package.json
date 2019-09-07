@@ -1,6 +1,12 @@
 {
   "name": "threejs-webpack-babel-typescript-starter",
-  "version": "0.7.1",
+  "version": "1.0.0",
+  "description": "Starter repo for using threejs, Webpack 4, Babel 7, and Typescript 3.6 in browser projects",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daltonrowe/threejs-webpack-babel-typescript-starter.git"
+  },
+  "readme": "README.md",
   "license": "MIT",
   "scripts": {
     "type-check": "tsc --noEmit",
