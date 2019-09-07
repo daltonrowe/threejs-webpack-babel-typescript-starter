@@ -19,7 +19,7 @@
     "@babel/preset-env": "^7.4.1",
     "@babel/preset-typescript": "^7.3.3",
     "babel-loader": "^8.0.4",
-    "typescript": "^3.3.3",
+    "typescript": "^3.6.2",
     "webpack": "^4.39.2",
     "webpack-cli": "^3.3.7"
   },
